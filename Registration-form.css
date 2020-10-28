@@ -1,0 +1,61 @@
+body {
+	background-color: lightblue;
+}
+.flexform-structure {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.form-details3 {
+	border-top: 10px blue solid;
+	margin-top: 10px;
+	background-color: white;
+	padding-left: 20px; padding-right: 20px;
+}
+
+.form-details1, .form-details2, .form-details3 {
+	width: 630px;
+	background: white;
+	margin-bottom: 10px;
+	border-radius: 10px;
+}
+
+.form-details1, .form-details3 {
+	height:160px;
+}
+
+.form-details2 {
+	height:130px;
+}
+.section1, span {
+	color: red;
+}
+
+.form-details1, .form-details2 {
+	padding-left: 20px; padding-right: 20px; padding-top: 30px;
+}
+
+Input {
+	outline: none;
+	border: none;
+	border-bottom: 1px solid grey;
+	margin-top: 60px;
+	
+}
+
+#email {
+	text-align: left;
+}
+
+.footer {
+	display: flex;
+	
+
+}
+
+
+
+
+
+
